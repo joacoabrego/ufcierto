@@ -1,0 +1,20 @@
+{
+  "name": "ufcierto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/joacoabrego/ufcierto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joacoabrego/ufcierto/issues"
+  },
+  "homepage": "https://github.com/joacoabrego/ufcierto#readme"
+}
