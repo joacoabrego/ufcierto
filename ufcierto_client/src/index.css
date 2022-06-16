@@ -1,13 +1,21 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.title-text {
+  font-family: "Modak";
+  font-size: 15vh;
+  font-weight: 300;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.primary {
+  color: #fe4a49;
+}
+.secondary {
+  color: #fed766;
+}
+.normal-text {
+  font-family: "Raleway";
+  font-size: 4vh;
+  font-weight: 100;
+}
+
+.italic {
+  font-style: italic;
 }
