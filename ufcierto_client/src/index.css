@@ -10,6 +10,10 @@
 .secondary {
   color: #fed766;
 }
+
+.background {
+  background-color: #2ab7ca;
+}
 .normal-text {
   font-family: "Raleway";
   font-size: 4vh;
@@ -18,4 +22,9 @@
 
 .italic {
   font-style: italic;
+}
+
+body {
+  margin: 0;
+  padding: 0;
 }
